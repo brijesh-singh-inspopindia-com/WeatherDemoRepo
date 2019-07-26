@@ -3,9 +3,10 @@
 I have created a dotnet core webapi for implementing this weather api service call.
 
 #How to run service
-go to project folder location /WeatherDemoRepo/WeatherDemoApp/
+```go to project folder location /WeatherDemoRepo/WeatherDemoApp/
 execute command : dotnet build
 execute command : dotnet run
+```
 
 it will be accessed on http://localhost:5000/api/weather
 
